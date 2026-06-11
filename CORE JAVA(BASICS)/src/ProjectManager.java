@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import java.util.Scanner;
-
+//Practicing collection
 public class ProjectManager {
     public static void main(String[] args) {
         List<Project> p=new ArrayList<>();
